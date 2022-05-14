@@ -59,8 +59,8 @@ LLR-1 | Turn on the Microcontroller | Implemented
 LLR-2 | Press push button for 2secs – RED LED ON| Implemented
 LLR-3 | Press push button for first time - BLUE, GREEN,ORANGE LED’s glow with 1Hz frequency | Implemented
 LLR-4 | Press push button for second time - BLUE,GREEN,ORANGE LED’s glow with 4Hz frequency | Implemented
-LLR-5 | Press push button for  third time - BLUE,GREEN,ORANGE LED,s glow with 8Hz frequency | Implemented
-LLR-6 | Press push button for fourth time – ORANGE,GREEN,BLUE LED,s stops glowing | Implemented
+LLR-5 | Press push button for third time - BLUE,GREEN,ORANGE LED's glow with 8Hz frequency | Implemented
+LLR-6 | Press push button for fourth time – ORANGE,GREEN,BLUE LED's stops glowing | Implemented
 LLR-7 | Press push button for 2secs – RED LED OFF | Implemented
 
 
